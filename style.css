@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.bg {
+    background-color: #f8f9fa;
+    background-image: url("https://cdn.pixabay.com/photo/2013/03/09/14/38/gym-91849_960_720.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+* {
+    font-family: "Poppins";
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
